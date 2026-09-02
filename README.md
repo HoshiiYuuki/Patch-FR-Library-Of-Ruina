@@ -1,6 +1,6 @@
 # Patch-FR-Library-Of-Ruina 📚
 
-Patch de traduction français fait par des bénévoles pour le jeu "Library Of Ruina" de Project Moon</br></br>
+Découvrez le patch de traduction française de Library Of Ruina, un projet collaboratif entièrement réalisé par des bénévoles passionnés pour rendre le jeu de Project Moon accessible en français.</br></br>
 
 # Tutoriel d'Installation 🧑‍🏫
 
