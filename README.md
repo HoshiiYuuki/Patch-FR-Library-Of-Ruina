@@ -20,9 +20,9 @@ Patch de traduction français fait par des bénévoles pour le jeu "Library Of R
 
 # Mise à Jour du Mod 🔄️
 
-- Il vous suffit de faire la même chose que pour l'installation en remplacement le mod que vous avez déjà installé</br></br>
+- Il vous suffit de faire la même chose que pour l'installation en remplacement le patch que vous avez déjà installé</br></br>
 
 # Plus ➕
 
-- Si vous rencontrez une erreurs de traduction, que vous voulez proposer une autre traduction pour un terme ou même voir l'avancement du Projet rejoignez le serveur discord disponible ci-dessous !
+- Si vous rencontrez une erreur de traduction, que vous voulez proposer une autre traduction pour un terme ou même voir l'avancement du Projet rejoignez le serveur discord disponible ci-dessous !
 - Rejoignez le [Serveur Discord Français sur l'univers de Project Moon](https://discord.gg/KmUxfJ26hv) !!!
