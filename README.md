@@ -1,6 +1,6 @@
-# Mod-FR-Library-Of-Ruina 📚
+# Patch-FR-Library-Of-Ruina 📚
 
-Mod de traduction français fait par des bénévoles pour le jeu "Library Of Ruina" de Project Moon</br></br>
+Patch de traduction français fait par des bénévoles pour le jeu "Library Of Ruina" de Project Moon</br></br>
 
 # Tutoriel d'Installation 🧑‍🏫
 
